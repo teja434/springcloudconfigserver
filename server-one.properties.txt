@@ -1,0 +1,3 @@
+database.url= http:localhots:8756
+database.username=test
+database.password=pwd
